@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 raagi
 kambu
 solam
+lion
+peacock
+>>>>>>> animals
